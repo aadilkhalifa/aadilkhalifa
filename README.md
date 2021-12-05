@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
-- 🤝 I’m looking for help with **nothing**
+- 🤝 I’m looking for help with **nothing :)**
 
 - 📫 How to reach me **aadilkhalifa@gmail.com**
 
