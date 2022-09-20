@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadil</h1>
 <h3 align="center">Passionate about design and development.</h3>
 
-- 🔭 I’m currently working on [the COSH website.](https://github.com/COSH-NITK/cosh-website)
+- 🔭 I’m currently working on top secret stuff.
 
 - 🌱 I’m currently learning **ReactJS**
 
